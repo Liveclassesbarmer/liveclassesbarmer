@@ -1,0 +1,13 @@
+edu-app/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── CourseCard.js
+│   │   └── Header.js
+│   ├── data/
+│   │   └── courses.js
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── README.md
